@@ -1,0 +1,2 @@
+# OBDIIonCAN_CSharp
+使用CAN通信实现OBDII诊断的上位机
