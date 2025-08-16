@@ -1,0 +1,12 @@
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\bin\x86\Debug\ZLGCAN_t1.exe.config
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\bin\x86\Debug\ZLGCAN_t1.exe
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\bin\x86\Debug\ZLGCAN_t1.pdb
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.csproj.AssemblyReference.cache
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCANDemo.CANForm.resources
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.Properties.Resources.resources
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCANDemo.ZCLOUD.resources
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.csproj.GenerateResource.cache
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.csproj.CoreCompileInputs.cache
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.exe
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.pdb
+D:\file\VisualStudio\ZLG_CAN_2023\ZLGCAN\obj\x86\Debug\ZLGCAN_t1.exe.config

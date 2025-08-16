@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\file\\CANFD\\ZLG_CAN_2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|h:\\file\\canfd\\zlg_can_2023\\zlgcan\\canform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|solutionrelative:zlgcan\\canform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|H:\\file\\CANFD\\ZLG_CAN_2023\\zlgcan\\canform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|solutionrelative:zlgcan\\canform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|H:\\file\\CANFD\\ZLG_CAN_2023\\zlgcan\\zcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CEA71F-BADE-4957-B784-C2C9C1B4B1D9}|ZLGCAN\\ZLGCAN_t1.csproj|solutionrelative:zlgcan\\zcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CANForm.cs",
+              "DocumentMoniker": "H:\\file\\CANFD\\ZLG_CAN_2023\\ZLGCAN\\CANForm.cs",
+              "RelativeDocumentMoniker": "ZLGCAN\\CANForm.cs",
+              "ToolTip": "H:\\file\\CANFD\\ZLG_CAN_2023\\ZLGCAN\\CANForm.cs",
+              "RelativeToolTip": "ZLGCAN\\CANForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:59:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CANForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\file\\CANFD\\ZLG_CAN_2023\\ZLGCAN\\CANForm.cs",
+              "RelativeDocumentMoniker": "ZLGCAN\\CANForm.cs",
+              "ToolTip": "H:\\file\\CANFD\\ZLG_CAN_2023\\ZLGCAN\\CANForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZLGCAN\\CANForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:53:12.302Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZCLOUD.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\file\\CANFD\\ZLG_CAN_2023\\ZLGCAN\\ZCLOUD.cs",
+              "RelativeDocumentMoniker": "ZLGCAN\\ZCLOUD.cs",
+              "ToolTip": "D:\\file\\VisualStudio\\ZLG_CAN_2023\\ZLGCAN\\ZCLOUD.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:53:07.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
